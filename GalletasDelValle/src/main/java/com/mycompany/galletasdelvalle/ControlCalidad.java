@@ -1,18 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package com.mycompany.galletasdelvalle;
 
-/**
- *
- * @author danie
- */
 public interface ControlCalidad {
 
-    void evaluarCalidad();
+    void evaluarCalidad(); //Metodo de la interfaz para evaluar calidad
 
 
-    double obtenerPuntajeCalidad();
+    double obtenerPuntajeCalidad(); //Metodo de la interfaz para obtener puntaje de la calidad
 }
+
 
